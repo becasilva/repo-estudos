@@ -1,2 +1,4 @@
-# repo-estudos
-Repositório para enviar minhas anotações de estudo da DIO sobre Git e GitHub
+# Repositório de Estudos
+###### Anotações sobre Git e GitHub da DIO
+
+Autor(a): [Rebeca Domingos](linkedin.com/in/rebeca-barros0922/)
