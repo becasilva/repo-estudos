@@ -16,7 +16,9 @@ cd nome-do-repositório: Para entrar na pasta
 
 **git config --global user.email "rebecab.silva98@gmail.com"**: Configurar para primeiro uso (atribuir autor)
 
-**git config --global.name Rebeca**: Configurar nome
+**git config --global user.name "Rebeca"**: Configurar nome
+
+**git config --global --list**: Listar configurações
 
 **git clone link.com**: Clonar um projeto do GitHub
 
@@ -98,6 +100,8 @@ Flags são atalhos ou aliases referência a um comando padrão para a realizaç�
 - **-m**: message (mensagem)
 - **-d**: delete (deletar)
 - **-a**: all (todos)
+- **-l**: list (listar)
+- **-e**: edit (editar/abrir editor)
 
 ---
 
